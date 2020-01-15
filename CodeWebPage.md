@@ -1,4 +1,4 @@
-# Sitio Web con GitHub
+# Página web prueba KICC
 
 ## Crear una cuenta en GitHub
 [Crear cuenta](https://github.com/join?source_repo=nicolasserrano%2FCS)
