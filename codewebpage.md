@@ -6,12 +6,11 @@
     <td VALIGN="BASELINE"><ul>
       <li><a HREF="#form">Proyectos</a></li>
       <li><a href="#radio">Sugerencias</a></li>
-      <li><a href="#check">Mi Perfil</a></li>
     </ul>
     </td>
     <td VALIGN="BASELINE"><ul>
+      <li><a href="#check">Mi Perfil</a></li>
       <li><a href="#ventana">Configuración</a></li>
-  
   </tr>
 </table>
 
