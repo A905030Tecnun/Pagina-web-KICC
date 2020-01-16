@@ -14,6 +14,8 @@
   </tr>
 </table>
 
+![JDBC Classes](images/JDBC50.png)
+
 ## Proyectos
 - [Asociación de vecinos Ermitagaña](https://www.pamplona.es/entidades/asociacion-de-vecinos-de-ermitagana)
 
