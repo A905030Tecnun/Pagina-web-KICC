@@ -1,4 +1,5 @@
 # Página web prueba KICC
+![JDBC Classes](Images/descarga.png)
 
 <table WIDTH="90%" UNITS="relative">
   <tr>
@@ -14,7 +15,7 @@
   </tr>
 </table>
 
-![JDBC Classes](Images/descarga.png)
+
 
 ## Proyectos
 - [Asociación de vecinos Ermitagaña](https://www.pamplona.es/entidades/asociacion-de-vecinos-de-ermitagana)
