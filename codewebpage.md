@@ -4,13 +4,13 @@
   <tr>
     <td VALIGN="BASELINE"><ul>
       <li><a HREF="#form">Proyectos</a></li>
-      <li><a href="#radio">Botones de opciones</a></li>
-      <li><a href="#check">Casillas de verificación</a></li>
+      <li><a href="#radio">Sugerencias</a></li>
+      <li><a href="#check">Mi Perfil</a></li>
     </ul>
     </td>
     <td VALIGN="BASELINE"><ul>
-      <li><a href="#ventana">Ventana de selección</a></li>
-      <li><a HREF="#lista">Listas</a>&nbsp;</li>
+      <li><a href="#ventana">Configuración</a></li>
+      
      </ul>
     </td>
   </tr>
