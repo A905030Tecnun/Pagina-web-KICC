@@ -11,6 +11,8 @@
     <td VALIGN="BASELINE"><ul>
       <li><a href="#check">Mi Perfil</a></li>
       <li><a href="#ventana">Configuración</a></li>
+    </ul>
+    </td>
   </tr>
 </table>
 
