@@ -11,7 +11,7 @@
     </td>
     <td VALIGN="BASELINE"><ul>
       <li><a href="#ventana">Configuración</a></li>
-      
+  
   </tr>
 </table>
 
@@ -21,6 +21,6 @@
 - [Asociación de vecinos Ermitagaña](https://www.pamplona.es/entidades/asociacion-de-vecinos-de-ermitagana)
 
 ## Sugerencias
-- En Repositories, hacer clic en New
+- Suba sus ideas de posibles TFGs
 
 
