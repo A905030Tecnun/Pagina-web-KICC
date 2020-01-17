@@ -1,7 +1,7 @@
 # Página web prueba KICC
 ![JDBC Classes](Images/descarga.png)
 <div class="backstretch" style="left: 0px; top: 0px; overflow: hidden; margin: 0px; padding: 0px; height: 442px; width: 751px; z-index: -999998; position: absolute;"><img src="https://programmingliftoff.com/wp-content/themes/onepress/assets/images/hero5.jpg" scale="0" style="position: absolute; margin: 0px; padding: 0px; border: none; width: 751px; height: 500.471px; max-height: none; max-width: none; z-index: -999999; left: 0px; top: -29.2355px;"></div>
-<body background="descarga.png">
+<body background="https://a905030tecnun.github.io/paginawebkicc/Images/descarga.png">
 <table WIDTH="90%" UNITS="relative">
   <tr>
     <td VALIGN="BASELINE"><ul>
