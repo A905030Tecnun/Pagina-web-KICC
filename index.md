@@ -1,6 +1,6 @@
 # Página web prueba KICC
 ![JDBC Classes](Images/descarga.png)
-
+<body background="descarga.png">
 <table WIDTH="90%" UNITS="relative">
   <tr>
     <td VALIGN="BASELINE"><ul>
@@ -17,7 +17,7 @@
 </table>
 
 <html>
-<body background=![JDBC Classes](Images/descarga.png)>
+<body>
 <table style="border-collapse: collapse; width: 100%; height: 54px;" border="1">
 <tbody>
 <tr style="height: 18px;">
