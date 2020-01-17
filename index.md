@@ -5,8 +5,7 @@
   <tr>
     <td VALIGN="BASELINE"><ul>
       <li> <a name="0" href="https://a905030tecnun.github.io/paginawebkicc/proyectos">Proyectos</a></li>
-      - [Asociación de vecinos Ermitagaña](https://a905030tecnun.github.io/paginawebkicc/proyectos)
-      <li><a href="#radio">Sugerencias</a></li>
+      <li><a name="0" href="https://a905030tecnun.github.io/paginawebkicc/proyectos">Sugerencias</a></li>
     </ul>
     </td>
     <td VALIGN="BASELINE"><ul>
