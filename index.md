@@ -9,8 +9,8 @@
     </ul>
     </td>
     <td VALIGN="BASELINE"><ul>
-      <li><a href="#check">Mi Perfil</a></li>
-      <li><a href="#ventana">Configuración</a></li>
+      <li><a name="0" href="https://a905030tecnun.github.io/paginawebkicc/miperfil">Mi Perfil</a></li></li>
+      <li><a name="0" href="https://a905030tecnun.github.io/paginawebkicc/configuracion">Configuración</a></li>
     </ul>
     </td>
   </tr>
