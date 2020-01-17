@@ -5,7 +5,7 @@
 
 <body background="https://a905030tecnun.github.io/paginawebkicc/Images/fondo.jpg">
 <table cellspacing="100" cellpadding="100" border="3">
-  <tr style="background-color:yellowgreen>
+  <tr style="background-color:yellowgreen;color:white;">
     <td align="center" VALIGN="MIDDLE"><ul>
       <li> <a name="0" href="https://a905030tecnun.github.io/paginawebkicc/proyectos">Proyectos</a></li>
     </ul>
