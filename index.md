@@ -1,4 +1,4 @@
-# Página web prueba KICC
+# ÍNDICE
 
 <body background="https://a905030tecnun.github.io/paginawebkicc/Images/fondo.jpg">
 <table cellspacing="100" cellpadding="10" border="3">
