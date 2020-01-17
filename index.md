@@ -2,17 +2,20 @@
 
 <body background="https://a905030tecnun.github.io/paginawebkicc/Images/fondo.jpg">
 <table cellspacing="10" cellpadding="10" border="3">
-  <colgroup class="fondo"><col><col></colgroup>
-  colgroup.fondo {
-  background-color: lightgrey;
   <tr>
     <td VALIGN="BASELINE"><ul>
       <li> <a name="0" href="https://a905030tecnun.github.io/paginawebkicc/proyectos">Proyectos</a></li>
+    </ul>
+    </td>
+    <td VALIGN="BASELINE"><ul>
       <li><a name="0" href="https://a905030tecnun.github.io/paginawebkicc/sugerencias">Sugerencias</a></li>
     </ul>
     </td>
     <td VALIGN="BASELINE"><ul>
       <li><a name="0" href="https://a905030tecnun.github.io/paginawebkicc/miperfil">Mi Perfil</a></li>
+    </ul>
+    </td>
+    <td VALIGN="BASELINE"><ul>
       <li><a name="0" href="https://a905030tecnun.github.io/paginawebkicc/configuracion">Configuración</a></li>
     </ul>
     </td>
