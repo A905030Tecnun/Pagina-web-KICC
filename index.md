@@ -17,7 +17,7 @@
 </table>
 
 <html>
-<body background="descarga.png">
+<body background=![JDBC Classes](Images/descarga.png)>
 <table style="border-collapse: collapse; width: 100%; height: 54px;" border="1">
 <tbody>
 <tr style="height: 18px;">
