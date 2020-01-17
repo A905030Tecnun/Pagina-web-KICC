@@ -3,7 +3,8 @@
 <body background="https://a905030tecnun.github.io/paginawebkicc/Images/fondo.jpg">
 <table border = "1" WIDTH="200%" UNITS="relative">
   <colgroup class="fondo"><col><col></colgroup>
-
+  colgroup.fondo {
+  background-color: lightgrey;
   <tr>
     <td VALIGN="BASELINE"><ul>
       <li> <a name="0" href="https://a905030tecnun.github.io/paginawebkicc/proyectos">Proyectos</a></li>
@@ -16,8 +17,7 @@
     </ul>
     </td>
   </tr>
-colgroup.fondo {
-background-color: lightgrey;
+
 }
 </table>
 
