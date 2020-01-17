@@ -16,14 +16,6 @@
   </tr>
 </table>
 
-## Proyectos
-- [Asociación de vecinos Ermitagaña](https://www.pamplona.es/entidades/asociacion-de-vecinos-de-ermitagana)
-
-## Sugerencias
-- Suba sus ideas de posibles TFGs.
-
-
-
 <html>
 <body>
 <table style="border-collapse: collapse; width: 100%; height: 54px;" border="1">
