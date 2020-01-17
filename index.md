@@ -2,7 +2,7 @@
 
 <body background="https://a905030tecnun.github.io/paginawebkicc/Images/fondo.jpg">
 <table border = "1" WIDTH="200%" UNITS="relative">
-  <col span="0" class="fondo"><col>
+  <col span="1" class="fondo"><col>
   <tr>
     <td VALIGN="BASELINE"><ul>
       <li> <a name="0" href="https://a905030tecnun.github.io/paginawebkicc/proyectos">Proyectos</a></li>
