@@ -20,7 +20,7 @@
 - [Asociación de vecinos Ermitagaña](https://www.pamplona.es/entidades/asociacion-de-vecinos-de-ermitagana)
 
 ## Sugerencias
-- Suba sus ideas de posibles TFGs
+- Suba sus ideas de posibles TFGs.
 
 
 <!DOCTYPE html>
