@@ -1,7 +1,7 @@
 # Página web prueba KICC
 
 <body background="https://a905030tecnun.github.io/paginawebkicc/Images/fondo.jpg">
-<table cellspacing="10" cellpadding="10" border="3">
+<table cellspacing="40" cellpadding="10" border="3">
   <tr>
     <td VALIGN="BASELINE"><ul>
       <li> <a name="0" href="https://a905030tecnun.github.io/paginawebkicc/proyectos">Proyectos</a></li>
