@@ -18,7 +18,7 @@
 </table>
 
 <html>
-<body>
+<body background= "https://a905030tecnun.github.io/paginawebkicc/index">
 <table style="border-collapse: collapse; width: 100%; height: 54px;" border="1">
 <tbody>
 <tr style="height: 18px;">
