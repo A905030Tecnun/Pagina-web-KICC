@@ -17,8 +17,8 @@
 </table>
 
 <html>
-<body background= "https://a905030tecnun.github.io/paginawebkicc/index">
-<table style="border-collapse: collapse; width: 100%; height: 54px;" border="1">
+<body>
+<table style="border-collapse: collapse; width: 100%; height: 200px;" border="1">
 <tbody>
 <tr style="height: 18px;">
 <td style="width: 33.3333%; height: 18px;">Internet y lenguaje HTML</td>
