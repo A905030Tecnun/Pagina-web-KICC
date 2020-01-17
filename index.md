@@ -4,7 +4,7 @@
 # ÍNDICE
 
 <body background="https://a905030tecnun.github.io/paginawebkicc/Images/fondo.jpg">
-<table width:100% bgcolor="red" cellspacing="100" cellpadding="100" border="3">
+<table cellspacing="100" cellpadding="100" border="3">
   <tr style="background-color:yellowgreen>
     <td align="center" VALIGN="MIDDLE"><ul>
       <li> <a name="0" href="https://a905030tecnun.github.io/paginawebkicc/proyectos">Proyectos</a></li>
