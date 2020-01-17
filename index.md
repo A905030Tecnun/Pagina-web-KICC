@@ -1,7 +1,7 @@
 # Página web prueba KICC
 
 <body background="https://a905030tecnun.github.io/paginawebkicc/Images/fondo.jpg">
-<table border = "1" WIDTH="200%" UNITS="relative">
+<table cellspacing="10" cellpadding="10" border="3">
   <colgroup class="fondo"><col><col></colgroup>
   colgroup.fondo {
   background-color: lightgrey;
