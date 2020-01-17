@@ -1,5 +1,5 @@
 # Página web prueba KICC
-![JDBC Classes](Images/descarga.png)
+
 <body background="https://a905030tecnun.github.io/paginawebkicc/Images/fondo.jpg">
 <table WIDTH="90%" UNITS="relative">
   <tr>
