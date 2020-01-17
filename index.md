@@ -23,7 +23,7 @@
 - Suba sus ideas de posibles TFGs.
 
 
-<!DOCTYPE html>
+
 <html>
 <body>
 <table style="border-collapse: collapse; width: 100%; height: 54px;" border="1">
